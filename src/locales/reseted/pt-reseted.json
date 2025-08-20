@@ -1,39 +1,10 @@
 {
   "infos": {
-    "name": "A_Definir",
-    "email": "A_Definir",
-    "emailSecundario": "A_Definir",
-    "emailThree": "A_Definir",
-    "emailFour": "A_Definir",
-    "emailFive": "A_Definir",
-    "domain": "A_Definir",
-    "phone": {
-      "ddd": "A_Definir",
-      "firstPart": "A_Definir",
-      "secondPart": "A_Definir"
-    },
-    "phoneSecundario": {
-      "ddd": "A_Definir",
-      "firstPart": "A_Definir",
-      "secondPart": "A_Definir"
-    },
-    "phoneTerciario": {
-      "ddd": "A_Definir",
-      "firstPart": "A_Definir",
-      "secondPart": "A_Definir"
-    },
-    "adress": "A_Definir",
+    "adress": "A_Definir <br/> A_Definir",
     "adressSecundario": "A_Definir",
-    "expediente": "A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
     "expedienteSecundario": "A_Definir",
-    "obs": "A_Definir",
-    "instagramProfile": "A_Definir",
-    "facebookProfile": "A_Definir",
-    "linkeDinProfile": "A_Definir",
-    "x": "A_Definir",
-    "whatsappDefaultMessage": "A_Definir",
-    "whatsChatDefaultMessage": "A_Definir",
-    "slogan": "A_Definir"
+    "obs": "A_Definir"
   },
   "navbar": {
     "menuItems": {
@@ -194,5 +165,13 @@
       }
     },
     "paragraph": "Clique aqui caso tenha mais dúvidas"
+  },
+  "footer": {
+    "copyrightLine": "{{year}} - {{name}} - Todos os direitos reservados",
+    "footerDivulgacaoText": "Gostaria de ter um site como este? Clique aqui",
+    "midSectionName": "Até mais",
+    "footerText": "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
+    "footerSocialText": "A_Definir",
+    "footerNavegacaoText": "NAVEGAÇÃO"
   }
 }

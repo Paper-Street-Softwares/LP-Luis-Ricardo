@@ -167,8 +167,8 @@
     "paragraph": "Clique aqui caso tenha mais dúvidas"
   },
   "footer": {
-    "copyrightLine": "A_Definir",
-    "footerDivulgacaoText": "A_Definir",
+    "copyrightLine": "{{year}} - {{name}} - Todos os direitos reservados",
+    "footerDivulgacaoText": "Gostaria de ter um site como este? Clique aqui",
     "midSectionName": "Até mais",
     "footerText": "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
     "footerSocialText": "A_Definir",
