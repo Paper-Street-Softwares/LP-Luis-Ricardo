@@ -17,7 +17,7 @@ import Button from "../components/interactives/Button";
 import UnderConstruction from "../components/interactives/UnderConstruction";
 
 export default function Index() {
-  const showUnderConstruction = true;
+  const showUnderConstruction = false;
 
   // Altere esta constante para: 'default', 'light' ou 'dark'
   const colorMode = "default";

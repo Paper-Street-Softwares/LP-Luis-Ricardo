@@ -59,13 +59,13 @@ export const infos = {
   domain: "ricardoarantes.adv.br", // Sem "www"
   phone: {
     ddd: "11",
-    firstPart: "98505", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "2315", // Apenas os 4 últimos números
+    firstPart: "94715", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "4634", // Apenas os 4 últimos números
   },
   phoneSecundario: {
-    ddd: "11",
-    firstPart: "94929", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "1541", // Apenas os 4 últimos números
+    ddd: "00",
+    firstPart: "00000", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "0000", // Apenas os 4 últimos números
   },
   phoneTerciario: {
     ddd: "A_Definir",
