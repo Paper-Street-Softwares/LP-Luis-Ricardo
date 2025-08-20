@@ -17,7 +17,8 @@ import Button from "../components/interactives/Button";
 import UnderConstruction from "../components/interactives/UnderConstruction";
 
 export default function Index() {
-  const showUnderConstruction = false;
+  //alterna entre página de construção e site normal
+  const showUnderConstruction = true;
 
   // Altere esta constante para: 'default', 'light' ou 'dark'
   const colorMode = "default";
