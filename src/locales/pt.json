@@ -17,12 +17,12 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO TRIBUTARISTA E TRABALHISTA",
+    "title": "Direito Tributário com <span class=\"text-primary font-bold\">visão prática </span>de negócios",
+    "subtitle": "Unindo experiência de mais de 20 anos em finanças e contabilidade à advocacia tributária, para transformar complexidade em soluções jurídicas estratégicas.",
+    "ctaButtonText": "Converse com especialista",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento online e presencial com agendamento"
     }
   },
   "features": {
