@@ -26,33 +26,33 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ÁREAS DE ATUAÇÃO",
+    "title": "Especialidades que cuidam do que importa pra você",
+    "subtitle": "Soluções jurídicas simples e claras para cada necessidade.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Tributário",
+      "subtitle": "Defesa e orientação em questões fiscais e impostos.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Familiar",
+      "subtitle": "Soluções jurídicas em divórcios, guarda e pensão.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Civil",
+      "subtitle": "Assessoria em contratos, indenizações e obrigações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Trabalhista",
+      "subtitle": "Apoio jurídico em direitos trabalhistas e relações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
