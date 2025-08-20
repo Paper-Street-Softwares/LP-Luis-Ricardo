@@ -81,18 +81,14 @@
   },
   "about": {
     "imagem": {
-      "alt": "A_Definir"
+      "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
-    "labelInstagram": "A_Definir",
-    "labelFacebook": "A_Definir",
-    "labelLinkedin": "A_Definir",
-    "labelX": "A_Definir",
+    "miniTag": "QUEM É O DR. LUIS RICARDO ARANTES",
+    "title": "Minha trajetória",
+    "subtitle": "Da gestão empresarial à advocacia tributária, unindo prática e estratégia.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "A_Definir",
+    "paragraph": "Sou Luis Ricardo Arantes, advogado desde 2019, com mais de 22 anos de experiência em Finanças, Contabilidade e Gestão Empresarial. Atuei em áreas como conciliação bancária, auditorias, fechamento contábil e relatórios estratégicos para empresas.",
+    "modal": "Sou Luis Ricardo Arantes, advogado desde 2019, com mais de 22 anos de experiência em Finanças, Contabilidade e Gestão Empresarial. Atuei em áreas como conciliação bancária, auditorias, fechamento contábil e relatórios estratégicos para empresas. <br/> <br/> Essa vivência me mostrou como o sistema tributário afeta diretamente a saúde das organizações. Foi o ponto de partida para minha transição de carreira, trazendo ao Direito Tributário uma visão prática, conectada com o dia a dia empresarial. <br/> <br/> Hoje, aplico minha experiência multidisciplinar para oferecer soluções jurídicas claras, estratégicas e seguras. Minha missão é ajudar empresas a alcançarem eficiência tributária sem perder de vista a realidade financeira e operacional.",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {

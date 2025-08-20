@@ -111,15 +111,11 @@
   },
   "about": {
     "imagem": {
-      "alt": "A_Definir"
+      "alt": "imagem about"
     },
     "miniTag": "A_Definir",
     "title": "A_Definir",
     "subtitle": "A_Definir",
-    "labelInstagram": "A_Definir",
-    "labelFacebook": "A_Definir",
-    "labelLinkedin": "A_Definir",
-    "labelX": "A_Definir",
     "buttonModalLabelAbout": "Continuar lendo",
     "modal": "a_Definir",
     "ctaButtonAriaLabel": "",
