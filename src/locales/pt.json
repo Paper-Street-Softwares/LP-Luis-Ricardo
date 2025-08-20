@@ -17,42 +17,42 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO TRIBUTARISTA E TRABALHISTA",
+    "title": "Direito Tributário com <span class=\"text-primary font-bold\">visão prática </span>de negócios",
+    "subtitle": "Unindo experiência de mais de 20 anos em finanças e contabilidade à advocacia tributária, para transformar complexidade em soluções jurídicas estratégicas.",
+    "ctaButtonText": "Converse com especialista",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento online e presencial com agendamento"
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ÁREAS DE ATUAÇÃO",
+    "title": "Especialidades que cuidam do que importa pra você",
+    "subtitle": "Soluções jurídicas simples e claras para cada necessidade.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Tributário",
+      "subtitle": "Defesa e orientação em questões fiscais e impostos.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Familiar",
+      "subtitle": "Soluções jurídicas em divórcios, guarda e pensão.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Civil",
+      "subtitle": "Assessoria em contratos, indenizações e obrigações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Trabalhista",
+      "subtitle": "Apoio jurídico em direitos trabalhistas e relações.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -81,18 +81,14 @@
   },
   "about": {
     "imagem": {
-      "alt": "A_Definir"
+      "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
-    "labelInstagram": "A_Definir",
-    "labelFacebook": "A_Definir",
-    "labelLinkedin": "A_Definir",
-    "labelX": "A_Definir",
+    "miniTag": "QUEM É O DR. LUIS RICARDO ARANTES",
+    "title": "Minha trajetória",
+    "subtitle": "Da gestão empresarial à advocacia tributária, unindo prática e estratégia.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "A_Definir",
+    "paragraph": "Sou Luis Ricardo Arantes, advogado desde 2019, com mais de 22 anos de experiência em Finanças, Contabilidade e Gestão Empresarial. Atuei em áreas como conciliação bancária, auditorias, fechamento contábil e relatórios estratégicos para empresas.",
+    "modal": "Sou Luis Ricardo Arantes, advogado desde 2019, com mais de 22 anos de experiência em Finanças, Contabilidade e Gestão Empresarial. Atuei em áreas como conciliação bancária, auditorias, fechamento contábil e relatórios estratégicos para empresas. <br/> <br/> Essa vivência me mostrou como o sistema tributário afeta diretamente a saúde das organizações. Foi o ponto de partida para minha transição de carreira, trazendo ao Direito Tributário uma visão prática, conectada com o dia a dia empresarial. <br/> <br/> Hoje, aplico minha experiência multidisciplinar para oferecer soluções jurídicas claras, estratégicas e seguras. Minha missão é ajudar empresas a alcançarem eficiência tributária sem perder de vista a realidade financeira e operacional.",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
@@ -112,35 +108,36 @@
     "ctaButtonText": "Entre em Contato"
   },
   "steps": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
+    "miniTag": "PASSO A PASSO",
+    "title": "Como funciona nosso atendimento?",
+    "subtitle": "",
     "cards": {
       "card1": {
         "stepNumber": 1,
-        "cardTitle": "A_Definir",
-        "cardDescription": "A_Definir"
+        "cardTitle": "Consulta inicial",
+        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
       },
       "card2": {
         "stepNumber": 2,
-        "cardTitle": "A_Definir",
-        "cardDescription": "A_Definir"
+        "cardTitle": "Análise detalhada",
+        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
       },
       "card3": {
         "stepNumber": 3,
-        "cardTitle": "A_Definir",
-        "cardDescription": "A_Definir"
+        "cardTitle": "Elaboração da estratégia",
+        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
       },
       "card4": {
         "stepNumber": 4,
-        "cardTitle": "A_Definir",
-        "cardDescription": "A_Definir"
+        "cardTitle": "Ação legal",
+        "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
       }
     }
   },
   "blog": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "BLOG",
+    "title": "Informação jurídica ao seu alcance",
+    "subtitle": "Acompanhe conteúdos exclusivos para manter-se sempre informado.",
     "labelCards": "A_Definir",
     "label": "A_Definir",
     "blogLink": "A_Definir"
@@ -170,8 +167,8 @@
     "paragraph": "Clique aqui caso tenha mais dúvidas"
   },
   "footer": {
-    "copyrightLine": "A_Definir",
-    "footerDivulgacaoText": "A_Definir",
+    "copyrightLine": "{{year}} - {{name}} - Todos os direitos reservados",
+    "footerDivulgacaoText": "Gostaria de ter um site como este? Clique aqui",
     "midSectionName": "Até mais",
     "footerText": "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
     "footerSocialText": "A_Definir",
