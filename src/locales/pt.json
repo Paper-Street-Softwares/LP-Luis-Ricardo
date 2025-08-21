@@ -11,6 +11,7 @@
       "home": "Início",
       "service": "Serviços",
       "about": "Sobre Nós",
+      "blog": "Blog",
       "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
@@ -138,9 +139,7 @@
     "miniTag": "BLOG",
     "title": "Informação jurídica ao seu alcance",
     "subtitle": "Acompanhe conteúdos exclusivos para manter-se sempre informado.",
-    "labelCards": "A_Definir",
-    "label": "A_Definir",
-    "blogLink": "A_Definir"
+    "label": "Clique aqui para ver todas as matérias"
   },
   "faq": {
     "miniTag": "TIRE SUAS DÚVIDAS",
