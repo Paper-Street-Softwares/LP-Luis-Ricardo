@@ -103,9 +103,9 @@ export const infos = {
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
-  instagramProfile: "dr.silvanosabino", // Sem o @
+  instagramProfile: "dr.luisricardoarantes.adv", // Sem o @
   facebookProfile: "A_Definir",
-  linkeDinProfile: "silvano-sabino-8924a4b4/",
+  linkeDinProfile: "",
   x: "A_Definir",
   whatsappDefaultMessage:
     "Olá! Vim através do site de vocês e gostaria de tirar umas dúvidas.",
