@@ -36,7 +36,7 @@ export default function FeaturesWithIcons({ colorMode }) {
         colorMode="dark"
       />
       <SectionWrapper>
-        <div className="flex desktop1:mt-[40px] flex-col items-center w-full tablet1:flex-row tablet1:justify-between desktop1:gap-x-0 desktop1:px-0">
+        <div className="flex desktop1:mt-[40px] flex-col items-center w-full desktop1:flex-row  tablet1:justify-between desktop1:gap-x-0 desktop1:px-0">
           <div className="col1 tablet1:w-[50%] desktop1:w-[28%] flex flex-col justify-center items-center">
             <MotionDivDownToUp>
               <IconFeatureCard
@@ -58,9 +58,9 @@ export default function FeaturesWithIcons({ colorMode }) {
             </MotionDivDownToUp>
           </div>
 
-          <MotionDivDownToUp className="hidden desktop1:flex justify-center w-[35%]">
+          <MotionDivDownToUp className="flex justify-center w-[344px] tablet1:w-[500px] desktop1:w-[35%] tablet2:mb-[120px]">
             <div
-              className="hidden h-[640px] w-full desktop1:flex col2 rounded-2xl bg-bottom bg-cover shadow-custom-opacity shadow-shadowFeatures/10"
+              className="h-[640px] tablet1:h-[950px] desktop1:h-[640px] w-full col2 rounded-2xl bg-bottom bg-cover shadow-custom-opacity shadow-shadowFeatures/10"
               style={{
                 backgroundImage: `url(${content.texts.features.imgFeatures})`,
               }}
