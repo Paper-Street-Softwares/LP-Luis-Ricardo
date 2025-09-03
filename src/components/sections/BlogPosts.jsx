@@ -1,16 +1,17 @@
 import { useState, useEffect } from "react";
-import { useTranslation } from "react-i18next"; // importa i18next
+import { useTranslation } from "react-i18next";
 import WordPressBlogCard from "../cards/WordPressBlogCard";
 import SectionArea from "../sectionElements/SectionArea";
 import SectionWrapper from "../sectionElements/SectionWrapper";
 import SectionHeader from "../sectionElements/SectionHeader";
 import Paragraphs from "../sectionElements/Paragraphs";
 import MotionDivDownToUp from "../animation/MotionDivDownToUp";
-import content from "../../content/content"; // se ainda precisa para o blogLink
+import content from "../../content/content";
 
 function BlogPosts() {
-  const { t } = useTranslation(); // hook para puxar do pt.json
+  const { t } = useTranslation();
   const [posts, setPosts] = useState([]);
+  const [visibleCount, setVisibleCount] = useState(3);
 
   useEffect(() => {
     fetch(
@@ -21,11 +22,24 @@ function BlogPosts() {
       .catch((error) => console.error("Erro ao buscar posts:", error));
   }, []);
 
+  useEffect(() => {
+    const updateVisibleCount = () => {
+      if (window.innerWidth >= 1441) {
+        setVisibleCount(6);
+      } else {
+        setVisibleCount(3);
+      }
+    };
+
+    updateVisibleCount(); // roda ao carregar
+    window.addEventListener("resize", updateVisibleCount);
+    return () => window.removeEventListener("resize", updateVisibleCount);
+  }, []);
+
   return (
     <div>
       <SectionArea className="bg-bgSectionDark" id="blog">
         <SectionWrapper>
-          {/* Textos estáticos do pt.json */}
           <SectionHeader
             className="text-center"
             miniTitle={t("blog.miniTag")}
@@ -37,9 +51,8 @@ function BlogPosts() {
             type=""
           />
 
-          {/* Posts da API */}
           <ul className="flex flex-wrap gap-[30px] justify-center mb-[80px]">
-            {posts.slice(0, 3).map((post) => (
+            {posts.slice(0, visibleCount).map((post) => (
               <li key={post.ID}>
                 <WordPressBlogCard
                   img={
@@ -70,7 +83,6 @@ function BlogPosts() {
             ))}
           </ul>
 
-          {/* Link também vindo do pt.json */}
           <MotionDivDownToUp>
             <Paragraphs className="text-center text-white underline transition hover:scale-110">
               <a
