@@ -87,6 +87,7 @@ export const theme = {
       desktop1: "1024px",
       desktop2: "1280px",
       desktop3: "1440px",
+      desktop4: "1441px",
     },
     keyframes: {
       slideDown: {
