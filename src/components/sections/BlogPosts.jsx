@@ -65,14 +65,14 @@ function BlogPosts() {
                     )
                   }
                   title={
-                    <h1 dangerouslySetInnerHTML={{ __html: post.title }} />
+                    <h1 className="" dangerouslySetInnerHTML={{ __html: post.title }} />
                   }
                   subtitle={
                     <p
                       dangerouslySetInnerHTML={{
                         __html:
                           post.excerpt.length > 100
-                            ? post.excerpt.substring(0, 100) + "..."
+                            ? post.excerpt.substring(0, 60) + "..."
                             : post.excerpt,
                       }}
                     />

@@ -7,23 +7,23 @@ export default function WordPressBlogCard({ img, title, subtitle, link }) {
       <MotionDivDownToUp>
         <div
           id="cardBlog"
-          className="w-[290px] phone2:w-[300px] phone3:w-[350px] tablet1:w-[400px] font-mainFont flex flex-col desktop1:max-w-[500px] desktop3:max-w-[375px] desktop4:max-w-[176px] bg-bgSectionLight rounded-2xl p-[20px] desktop4:p-[10px]"
+          className="w-[290px] phone2:w-[300px] phone3:w-[350px] tablet1:w-[400px] justify-between font-mainFont flex flex-col desktop1:max-w-[500px] desktop3:max-w-[375px] desktop4:max-w-[176px] bg-bgSectionLight rounded-2xl p-[20px] desktop4:p-[10px] desktop4:min-h-[380px]"
         >
           <div className="w-full max-h-[220px] tablet1:h-[300px] desktop4:h-[130px] flex justify-center items-center overflow-hidden rounded-2xl">
             <div className="w-full">{img}</div>
           </div>
           <h1
-            className="mt-4 text-title1 leading-[25px] font-medium mb-[12px]"
+            className="mt-4 text-title1 leading-[25px] font-medium mb-[12px] desktop4:mb-[0px] desktop4:mt-0 desktop4:text-paragraph3 desktop4:min-h-[60px] desktop4:leading-[20px] "
             title="blogTitle"
           >
             {title}
           </h1>
-          <h2
-            className="text-paragraph2 desktop2:text-paragraph3 mb-[32px] text-colorBlack/60 leading-[18px] desktop1:leading-[21px]  "
+          <p
+            className="text-paragraph2 desktop2:text-paragraph3 mb-[32px] text-black/60 leading-[18px] desktop1:leading-[21px] desktop4:mb-[6px] desktop4:paragraph1 "
             title="blogSubtitle"
           >
             {subtitle}
-          </h2>
+          </p>
           <div className="flex ">
             <BlogButton
               removeAnchor={true}

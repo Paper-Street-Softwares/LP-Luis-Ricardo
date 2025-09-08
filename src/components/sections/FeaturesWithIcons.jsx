@@ -58,7 +58,7 @@ export default function FeaturesWithIcons({ colorMode }) {
             </MotionDivDownToUp>
           </div>
 
-          <MotionDivDownToUp className="flex justify-center w-[344px] tablet1:w-[500px] desktop1:w-[35%] tablet1:mb-[120px]">
+          <MotionDivDownToUp className="flex justify-center w-[90%] tablet1:w-[500px] desktop1:w-[35%] tablet1:mb-[120px]">
             <div
               className="h-[640px] tablet1:h-[950px] desktop1:h-[640px] w-full col2 rounded-2xl bg-bottom bg-cover shadow-custom-opacity shadow-shadowFeatures/10"
               style={{
